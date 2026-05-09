@@ -1,4 +1,4 @@
-<h1 align="center">Ricky here!! EAT EM ALL!!</h1>
+<h1 align="center">Ricky here!!</h1>
 <p align="center">
 	<img src="./assets/futaba.gif" height="250" alt="futaba typing gif" />
 </p>
