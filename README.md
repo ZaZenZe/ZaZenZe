@@ -1,4 +1,4 @@
-<h1 align="center">Ricky here!!</h1>
+<h1 align="center">Ricky here!! EAT EM ALL!!</h1>
 <p align="center">
 	<img src="./assets/futaba.gif" height="250" alt="futaba typing gif" />
 </p>
@@ -67,12 +67,16 @@ Heyaa, ya can call me Ricky!!<br><br>I am a CS student and I'm into full stack d
 
 ---
 
-## 📊 GitHub Stats
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZaZenZe/ZaZenZe/pacman-output/pacman-contribution-graph-dark.svg">
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZaZenZe/ZaZenZe/pacman-output/pacman-contribution-graph.svg">
+	<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZaZenZe/ZaZenZe/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
-![](https://github-readme-stats.shion.dev/api?username=ZaZenZe&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ZaZenZe&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ZaZenZe&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
-## 🏆 GitHub Trophies
+## 🔗 Connect with Me
 
-![](https://github-profile-trophy.vercel.app/?username=ZaZenZe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:desayan2014@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sayan-de-876a37303/)
+[![TryHackMe](https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&style=for-the-badge)](https://tryhackme.com/p/ZaZenZe)
