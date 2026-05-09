@@ -67,6 +67,8 @@ Heyaa, ya can call me Ricky!!<br><br>I am a CS student and I'm into full stack d
 
 ---
 
+### 🕹️ Eat em all!!
+
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZaZenZe/ZaZenZe/pacman-output/pacman-contribution-graph-dark.svg">
 	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZaZenZe/ZaZenZe/pacman-output/pacman-contribution-graph.svg">
