@@ -65,7 +65,6 @@ Heyaa, ya can call me Ricky!!<br><br>I am a CS student and I'm into full stack d
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
----
 
 ### 🕹️ Eat em all!!
 
@@ -75,7 +74,6 @@ Heyaa, ya can call me Ricky!!<br><br>I am a CS student and I'm into full stack d
 	<img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ZaZenZe/ZaZenZe/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
----
 
 ## 🔗 Connect with Me
 
