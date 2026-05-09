@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-Heyaa, ya can call me Ricky!! I am a CS student and I'm into full stack dev, agentic AI, cloud infra. I have real keen interest in digital forensics, malware analysis and offensive security. Aside from the software, I am really into tech hardware, pulling things apart and putting it back together is my side hobby in a way. When I'm not coding I'm building PCs, gaming, or reading something completely unrelated to tech.
+Heyaa, ya can call me Ricky!!<br><br>I am a CS student and I'm into full stack dev, agentic AI, cloud infra. I have real keen interest in digital forensics, malware analysis and offensive security.<br><br>Aside from the software, I am really into tech hardware, pulling things apart and putting it back together is my side hobby in a way.<br><br>When I'm not coding I'm building PCs, gaming, or reading something completely unrelated to tech.
 
 ---
 
